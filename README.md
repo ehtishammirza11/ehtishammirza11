@@ -5,12 +5,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ehtisham Mustafa</h1>
 <h3 align="center">Computer Engineer | Mobile App Developer | UI/UX Graphic Designer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ehtisham-mirza-01b602177/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ehtisham" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ehtishammirza11/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="akash chowrasia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ehtishammirza11/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1051/1051326.png" alt="akash chowrasia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ehtishammirza11/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="akash chowrasia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ehtishammirza11/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ehtishammirza11/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
+  
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+
 
 
 
