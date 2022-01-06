@@ -45,16 +45,7 @@
 <p> 
   
   
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611037.png?token=exp=1641473723~hmac=9cc2a783dd3cdb86681b4c1018aee67f" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968559.png" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://img.icons8.com/color/344/flutter.png" alt="css3" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank"> 
@@ -64,6 +55,16 @@
   <a href="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo-1024x705.png" target="_blank"> 
     <img src="https://img.icons8.com/color/344/dart.png" alt="html5" width="40" height="40" /> 
   </a>
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611037.png?token=exp=1641473723~hmac=9cc2a783dd3cdb86681b4c1018aee67f" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968559.png" alt="javascript" width="40" height="40"/> 
+  </a> 
+
 </p>
 
 
