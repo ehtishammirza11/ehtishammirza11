@@ -36,7 +36,7 @@
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
 ✔ Ask me about anything, I am happy to help<br>
-✔ Fun fact: *At The time of Stress coding,<br>I use to be in half sleeping mode*<br><br><br><br>
+✔ Fun fact: *At The time of Stress coding,<br>I use to be in half sleeping mode*<br><br>
  
 
 
