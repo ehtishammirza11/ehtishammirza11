@@ -36,7 +36,7 @@
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
 ✔ Ask me about anything, I am happy to help<br>
-✔ Fun fact: *At The time of Stress coding, I use to be in half sleeping mode*<br>
+✔ Fun fact: *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br>
  
 
 
@@ -48,21 +48,21 @@
     <img src="https://img.icons8.com/color/344/dart.png" alt="dart logo" width="40" height="40" /> 
   </a>
   <a href="https://img.icons8.com/color/344/flutter.png"> 
-    <img src="https://img.icons8.com/color/344/flutter.png" alt="css3" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/344/flutter.png" alt="flutter logo" width="40" height="40"/> 
   </a> 
   <a href="https://img.icons8.com/color/344/android-studio--v3.png"> 
-    <img src="https://img.icons8.com/color/344/android-studio--v3.png" alt="python" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/344/android-studio--v3.png" alt="android studio logo" width="40" height="40"/> 
   </a>  
   
   
   <a href="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" target="_blank"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="linux" width="40" height="40"/> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="photoshop logo" width="40" height="40"/> 
   </a> 
   <a href="https://cdn-icons.flaticon.com/png/512/5611/premium/5611037.png?token=exp=1641473723~hmac=9cc2a783dd3cdb86681b4c1018aee67f" target="_blank"> 
     <img src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611037.png?token=exp=1641473723~hmac=9cc2a783dd3cdb86681b4c1018aee67f" width="40" height="40"/> 
   </a>
   <a href="https://cdn-icons-png.flaticon.com/512/5968/5968559.png" target="_blank"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968559.png" alt="javascript" width="40" height="40"/> 
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968559.png" alt="adobe xd logo" width="40" height="40"/> 
   </a> 
 
 </p>
