@@ -44,7 +44,9 @@
 
 <p> 
   
-  
+  <a href="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo-1024x705.png" target="_blank"> 
+    <img src="https://img.icons8.com/color/344/dart.png" alt="html5" width="40" height="40" /> 
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://img.icons8.com/color/344/flutter.png" alt="css3" width="40" height="40"/> 
   </a> 
@@ -52,9 +54,7 @@
     <img src="https://img.icons8.com/color/344/android-studio--v3.png" alt="python" width="40" height="40"/> 
   </a>  
   
-  <a href="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo-1024x705.png" target="_blank"> 
-    <img src="https://img.icons8.com/color/344/dart.png" alt="html5" width="40" height="40" /> 
-  </a>
+  
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="linux" width="40" height="40"/> 
   </a> 
