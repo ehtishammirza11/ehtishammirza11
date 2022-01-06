@@ -40,9 +40,9 @@
  
 
 
-<h3>Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
-<p> 
+<p align="center"> 
   
   <a href="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo-1024x705.png" target="_blank"> 
     <img src="https://img.icons8.com/color/344/dart.png" alt="html5" width="40" height="40" /> 
