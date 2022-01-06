@@ -62,7 +62,7 @@
   </a>  
   
   <a href="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo-1024x705.png" target="_blank"> 
-    <img src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo-1024x705.png" alt="html5" width="20" /> 
+    <img src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo-1024x705.png" alt="html5" width="100" /> 
   </a>
 </p>
 
