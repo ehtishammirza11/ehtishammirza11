@@ -21,7 +21,7 @@
 
 <p align="center">
   <em>
-    This is me, Ehtisham Mustafa, a <b>final year</b> undergraduate from <a href="http://www.uoh.edu.pk/#gsc.tab=0"> <b>University of Haripur, Pakistan, amritsar</a></b>. <br>
+    This is me, Ehtisham Mustafa, a <b>final year</b> undergraduate from <a href="http://www.uoh.edu.pk/#gsc.tab=0"> <b>University of Haripur, Pakistan</a></b>. <br>
     A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
