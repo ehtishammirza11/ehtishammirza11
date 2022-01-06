@@ -35,8 +35,8 @@
 ✔ I’m currently learning **Dart** & **Flutter**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ Ask me about anything, I am happy to help, only if the ball is<br>in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half<br>sleeping mode*<br><br><br><br>
+✔ Ask me about anything, I am happy to help<br>
+✔ Fun fact: *At The time of Stress coding,<br>I use to be in half sleeping mode*<br><br><br><br>
  
 
 
