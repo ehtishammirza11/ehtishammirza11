@@ -49,7 +49,10 @@
   </a>
   <a href="https://img.icons8.com/color/344/flutter.png"> 
     <img src="https://img.icons8.com/color/344/flutter.png" alt="flutter logo" width="40" height="40"/> 
-  </a> 
+  </a>
+   <a href="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" target="_blank"> 
+    <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="dart logo" width="40" height="40" /> 
+  </a>
   <a href="https://img.icons8.com/color/344/android-studio--v3.png"> 
     <img src="https://img.icons8.com/color/344/android-studio--v3.png" alt="android studio logo" width="40" height="40"/> 
   </a>  
