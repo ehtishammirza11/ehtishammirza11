@@ -59,7 +59,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="photoshop logo" width="40" height="40"/> 
   </a> 
   <a href="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1-1.png" target="_blank"> 
-    <img src="https://cdn-icons.flaticon.com/png/512/5611/premium/5611037.png?token=exp=1641473723~hmac=9cc2a783dd3cdb86681b4c1018aee67f" width="40" height="40"/> 
+    <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1-1.png" width="40" height="40"/> 
   </a>
   <a href="https://cdn-icons-png.flaticon.com/512/5968/5968559.png" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968559.png" alt="adobe xd logo" width="40" height="40"/> 
